@@ -5,8 +5,6 @@ An intelligent web application that lets users upload notes (text or PDF), summa
 ---
 
 ## 🚀 Live Demo
-
-Frontend (React): [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)  
 ---
 
 ## 📌 Features
